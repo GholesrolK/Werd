@@ -7,3 +7,8 @@ werd : sura.ayat > sura.ayat / rakaa
 
 
 
+thumn marker on each aya that starts a thumn , a marker for rub3 ,nesf and 7ezb 
+handlin each thumn ayat number on its own .
+half and quartin dependin on the werd .
+
+|ث------------|ث--------------ث-|-------ث
