@@ -12,3 +12,9 @@ handlin each thumn ayat number on its own .
 half and quartin dependin on the werd .
 
 |ث------------|ث--------------ث-|-------ث
+
+1- u take how many thumns are in the werd ex (addukhan > alfatiha) = 88
+2 - divide that with the ammount of days so u get how many is the werd per day 
+- can divide it more with rakkat or day /night etc 
+3-apply the numbers to get the start and the finish for every werd
+u get the list of the werds do with it as  ya wish 
